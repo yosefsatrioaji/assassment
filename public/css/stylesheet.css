@@ -1,0 +1,15 @@
+.no-rounded {
+    border-radius:0;
+}
+.table > tbody > tr > *{
+    vertical-align: middle;
+}
+.fa-laptop-code{
+    font-size:5rem;
+}
+.b-icon{
+    font-size:1.5rem;
+}
+.bg-grey{
+    background-color:#efefef;
+}
